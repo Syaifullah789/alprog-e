@@ -1,0 +1,42 @@
+Berikut adalah notasi kalimat deskriptif yang dapat digunakan untuk menggambarkan algoritma dalam pemrosesan bahasa alami (NLP):
+
+Notasi Kalimat Deskriptif
+Input: Kalimat atau teks yang akan diproses.
+
+Contoh: "Saya pergi ke pasar."
+Pra-pemrosesan:
+
+Menghapus tanda baca dan karakter khusus.
+Menormalkan teks (misalnya, mengubah ke huruf kecil).
+Tokenisasi:
+
+Memecah teks menjadi unit-unit yang lebih kecil (token).
+Contoh: ["Saya", "pergi", "ke", "pasar"]
+Penyaringan Kata:
+
+Menghapus kata-kata umum (stop words) yang tidak menambah makna.
+Contoh: ["Saya", "pergi", "pasar"]
+Stemming/Lemmatization:
+
+Mengubah kata menjadi bentuk dasar.
+Contoh: ["Saya", "pergi", "pasar"]
+Analisis Sintaksis:
+
+Mengidentifikasi struktur kalimat dan hubungan antar kata.
+Menghasilkan pohon sintaksis atau dependensi.
+Ekstraksi Fitur:
+
+Mengambil informasi penting dari teks untuk analisis lebih lanjut.
+Contoh: Mengidentifikasi entitas, kategori, atau sentimen.
+Model Prediksi:
+
+Menggunakan model machine learning untuk melakukan klasifikasi atau prediksi.
+Output: Kategori atau respons berdasarkan teks input.
+Output:
+
+Menyajikan hasil analisis dalam bentuk yang dapat dimengerti.
+Contoh: "Kalimat ini menggambarkan aktivitas pergi ke pasar."
+Contoh Algoritma
+Input: Teks
+Pra-pemrosesan → Tokenisasi → Penyaringan Kata → Stemming → Analisis Sintaksis → Ekstraksi Fitur → Model Prediksi → Output
+Notasi ini dapat digunakan untuk menjelaskan langkah-langkah dalam algoritma pemrosesan bahasa alami secara jelas dan sistematis.
