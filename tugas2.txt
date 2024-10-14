@@ -1,0 +1,11 @@
+judul: algoritma membuat es campur
+
+Mulai
+1.Siapkan semua bahan dan alat
+2.Serut es dan masukkan ke dalam mangkuk
+3.Tambahkan potongan buah-buahan di atas es
+4.Tuangkan sirup sesuai selera
+5.Tambahkan susu kental manis di atasnya
+6.Aduk semua bahan jika diinginkan
+7.Sajikan es campur dalam mangkuk
+Selesai
