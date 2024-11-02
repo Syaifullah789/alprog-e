@@ -1,8 +1,8 @@
 nama = "syaifullah"
 alamat = "dompu"
-nim = "24241148"
+nim = "24241184"
 nimpertama = 24
-nimakhir = 48
+nimakhir = 84
 hasil = nimpertama + nimakhir
 
 print("nama saya adalah"+ nama)
